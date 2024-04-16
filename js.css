@@ -1,0 +1,21 @@
+.btn{
+    border-radius: 5%;
+    background-color: brown;
+    color: aliceblue;
+    padding: 15px;
+  display: flex;
+  cursor: pointer;
+ 
+  
+}
+div{
+    width: 40%;
+    height: 5vh;
+   
+   display: block;
+   
+}
+.btn:hover{
+    background-color: antiquewhite;
+    color: black;
+}
